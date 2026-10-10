@@ -265,6 +265,8 @@ If you utilize Myriad-MoE, its architecture, or its training pipeline in your re
 
 ### Model Test
 
+> tc.py
+
 ```python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
